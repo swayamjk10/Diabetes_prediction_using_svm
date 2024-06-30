@@ -1,4 +1,4 @@
-# Diabetes_prediction_using_svm
+# Diabetes_prediction_using_svm💊🩺
 ## Introduction
 Early diagnosis and prediction of diabetes can significantly improve the quality of life for patients. This project aims to predict the likelihood of diabetes using the SVM algorithm on the Pima Indians Diabetes Database.
 
